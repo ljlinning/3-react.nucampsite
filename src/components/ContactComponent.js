@@ -174,6 +174,9 @@ class Contact extends Component {
                                     />
                                 </Col>
                             </Row>
+                            <Button type="submit" color="primary">
+                                Submit
+                            </Button>
                         </LocalForm>
                         </div>
                     </div>
